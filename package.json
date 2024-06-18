@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Parcel Sandbox",
   "main": "index.html",
-3
+  "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
